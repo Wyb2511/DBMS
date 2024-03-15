@@ -1,0 +1,6 @@
+AboutDatabase 是建立和删除数据库的函数
+AboutTable 是建立和删除表的函数
+Modification 是修改表的函数，包括：增加、删除表的数据 和 增加、删除表的结构
+GUITest 是图形界面样例 可以先不用管
+create 是我用来建测试样例的
+后面几个dbf是测试样例
